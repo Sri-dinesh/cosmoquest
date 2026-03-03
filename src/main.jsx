@@ -5,6 +5,8 @@ import "./index.css";
 import App from "./App.jsx";
 
 const PUBLISHABLE_KEY = import.meta.env.VITE_CLERK_PUBLISHABLE_KEY;
+// Cosmic initialized
+
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
